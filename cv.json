@@ -4,7 +4,7 @@
     "nombre": "Luis Díaz",
     "mail": "luis.diaz@email.com",
     "telefono": "+34 600 123 456",
-    "direccion": "San Sebastián, País Vasco, España",
+    "direccion": "País Vasco, España",
     "lema": "Comprometido con el trabajo y el aprendizaje constante",
     "fechaNacimiento": "2001-01-01"
   },
@@ -12,7 +12,7 @@
     {
       "puesto": "Ayudante en hostelería",
       "periodo": "2025 - Actualidad",
-      "descripcion": "Apoyo general en cocina y atención al cliente",
+      "descripcion": "Atención al cliente",
       "funciones": [
         "Preparación de pedidos",
         "Atención en barra",
@@ -20,13 +20,12 @@
       ]
     },
     {
-      "puesto": "Freelancer en desarrollo web",
+      "puesto": "Freelancer-Data Entry",
       "periodo": "2022 - 2025",
-      "descripcion": "Desarrollo de sitios web y soporte técnico básico",
+      "descripcion": "Capturar información de internet",
       "funciones": [
-        "Instalación y configuración de sistemas",
-        "Diseño web básico con HTML/CSS",
-        "Soporte técnico a distancia"
+        "Buscar información",
+        "Actualizar base de datos"
       ]
     },
     {
@@ -39,17 +38,7 @@
         "Atención a usuarios"
       ]
     },
-    {
-      "puesto": "Trabajos informales en Colombia",
-      "periodo": "2018 - 2023",
-      "descripcion": "Apoyo familiar y trabajos ocasionales",
-      "funciones": [
-        "Ventas informales",
-        "Asistencia técnica básica",
-        "Colaboración en tareas domésticas"
-      ]
     }
-  ],
   "formacion": [
     {
       "titulo": "Certificado de Profesionalidad en Administración de Bases de Datos (IFCT830)",
