@@ -1,0 +1,115 @@
+{
+  "nombre": "Luis Díaz",
+  "datosPersonales": {
+    "nombre": "Luis Díaz",
+    "mail": "luis.diaz@email.com",
+    "telefono": "+34 600 123 456",
+    "direccion": "San Sebastián, País Vasco, España",
+    "lema": "Comprometido con el trabajo y el aprendizaje constante",
+    "fechaNacimiento": "2001-01-01"
+  },
+  "experiencia": [
+    {
+      "puesto": "Ayudante en hostelería",
+      "periodo": "2025 - Actualidad",
+      "descripcion": "Apoyo general en cocina y atención al cliente",
+      "funciones": [
+        "Preparación de pedidos",
+        "Atención en barra",
+        "Limpieza y organización del espacio de trabajo"
+      ]
+    },
+    {
+      "puesto": "Freelancer en desarrollo web",
+      "periodo": "2022 - 2025",
+      "descripcion": "Desarrollo de sitios web y soporte técnico básico",
+      "funciones": [
+        "Instalación y configuración de sistemas",
+        "Diseño web básico con HTML/CSS",
+        "Soporte técnico a distancia"
+      ]
+    },
+    {
+      "puesto": "Becario en soporte de sistemas",
+      "periodo": "2022 (6 meses)",
+      "descripcion": "Prácticas en mantenimiento y soporte informático",
+      "funciones": [
+        "Mantenimiento de equipos",
+        "Instalación de software",
+        "Atención a usuarios"
+      ]
+    },
+    {
+      "puesto": "Trabajos informales en Colombia",
+      "periodo": "2018 - 2023",
+      "descripcion": "Apoyo familiar y trabajos ocasionales",
+      "funciones": [
+        "Ventas informales",
+        "Asistencia técnica básica",
+        "Colaboración en tareas domésticas"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Certificado de Profesionalidad en Administración de Bases de Datos (IFCT830)",
+      "horas": "610H",
+      "institucion": "Centro de Formación, San Sebastián",
+      "temario": "SQL, gestión de bases de datos, administración de sistemas"
+    },
+    {
+      "titulo": "Bachillerato homologado en España",
+      "horas": "2 años",
+      "institucion": "Ministerio de Educación",
+      "temario": "Educación secundaria completa"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Euskera",
+      "lectura": 4,
+      "escritura": 4,
+      "comprension": 2,
+      "nivel": "A1"
+    },
+    {
+      "idioma": "Inglés",
+      "lectura": 7,
+      "escritura": 6,
+      "comprension": 5,
+      "nivel": "B2"
+    }
+  ],
+  "habilidades": [
+    {
+      "nombre": "HTML5",
+      "nivel": 9
+    },
+    {
+      "nombre": "CSS3",
+      "nivel": 9
+    },
+    {
+      "nombre": "Soporte técnico",
+      "nivel": 8
+    }
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme por correo o teléfono"
+  },
+  "footer": {
+    "texto": "© 2025 Luis Díaz"
+  }
+}
+
+
+
+
