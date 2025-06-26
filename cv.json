@@ -37,8 +37,8 @@
         "Instalación de software",
         "Atención a usuarios"
       ]
-    },
     }
+  ],
   "formacion": [
     {
       "titulo": "Certificado de Profesionalidad en Administración de Bases de Datos (IFCT830)",
@@ -52,7 +52,6 @@
       "institucion": "Ministerio de Educación",
       "temario": "Educación secundaria completa"
     }
-  },
   ],
   "idiomas": [
     {
@@ -99,7 +98,3 @@
     "texto": "© 2025 Luis Díaz"
   }
 }
-
-
-
-
