@@ -6,7 +6,8 @@
     "telefono": "+34 600 123 456",
     "direccion": "País Vasco, España",
     "lema": "Comprometido con el trabajo y el aprendizaje constante",
-    "fechaNacimiento": "2001-01-01"
+    "fechaNacimiento": "2001-01-01",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQFefz1qM5EmxA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718312538291?e=1756339200&v=beta&t=adOsozwf1S2I6v6lT8gRxpXqvrbMHj5t2g8HGp0jZm4"
   },
   "experiencia": [
     {
@@ -20,9 +21,9 @@
       ]
     },
     {
-      "puesto": "Freelancer-Data Entry",
+      "puesto": "Freelancer - Data Entry",
       "periodo": "2022 - 2025",
-      "descripcion": "Capturar información de internet",
+      "descripcion": "Captura de información desde internet",
       "funciones": [
         "Buscar información",
         "Actualizar base de datos"
